@@ -1,0 +1,180 @@
+{
+    "organization": [
+        {
+            "name": "Algebra",
+            "id": 1,
+            "contact": "0915555566",
+            "employees": [
+                {
+                    "fname": "Luka",
+                    "lname": "Lukic",
+                    "contact": "3636365565",
+                    "id": 5,
+                    "salary": 50000.0
+                },
+                {
+                    "fname": "John",
+                    "lname": "Doe",
+                    "contact": "3636368484",
+                    "id": 6,
+                    "salary": 70000.0
+                }
+            ],
+            "customers": [
+                {
+                    "fname": "Franko",
+                    "lname": "Franic",
+                    "contact": "3646212565"
+                },
+                {
+                    "fname": "Jane",
+                    "lname": "Smith",
+                    "contact": "3636378784"
+                }
+            ]
+        },
+        {
+            "name": "Ferrari",
+            "id": "5",
+            "contact": "33325235",
+            "employees": [
+                {
+                    "fname": "Nevio",
+                    "lname": "Rahelic",
+                    "contact": "225652",
+                    "id": 454,
+                    "salary": 100000.0
+                },
+                {
+                    "fname": "Marija",
+                    "lname": "Maric",
+                    "contact": "323256",
+                    "id": 969,
+                    "salary": 100010.0
+                }
+            ],
+            "customers": [
+                {
+                    "fname": "Fran",
+                    "lname": "Franic",
+                    "contact": "0915451"
+                },
+                {
+                    "fname": "Dominik",
+                    "lname": "Dominikovic",
+                    "contact": "565891"
+                }
+            ]
+        },
+        {
+            "name": "LG",
+            "id": "9",
+            "contact": "232323",
+            "employees": [
+                {
+                    "fname": "James",
+                    "lname": "Smith",
+                    "contact": "2225",
+                    "id": 332,
+                    "salary": 20000.0
+                },
+                {
+                    "fname": "Marco",
+                    "lname": "Polo",
+                    "contact": "3335",
+                    "id": 45454,
+                    "salary": 350000.0
+                }
+            ],
+            "customers": [
+                {
+                    "fname": "Marko",
+                    "lname": "Maric",
+                    "contact": "363658554"
+                }
+            ]
+        },
+        {
+            "name": "Amazon",
+            "id": "64",
+            "contact": "78744658",
+            "employees": [
+                {
+                    "fname": "Jeff",
+                    "lname": "Bezos",
+                    "contact": "39654885",
+                    "id": 11,
+                    "salary": 1000000.0
+                }
+            ],
+            "customers": [
+                {
+                    "fname": "Kenny",
+                    "lname": "Smith",
+                    "contact": "99874541"
+                }
+            ]
+        },
+        {
+            "name": "Acer",
+            "id": "87",
+            "contact": "79665813",
+            "employees": [
+                {
+                    "fname": "Juan",
+                    "lname": "Sanchez",
+                    "contact": "385669245",
+                    "id": 41,
+                    "salary": 35000.0
+                }
+            ],
+            "customers": [
+                {
+                    "fname": "David",
+                    "lname": "Ramirez",
+                    "contact": "45996235"
+                }
+            ]
+        },
+        {
+            "name": "PPD",
+            "id": "114",
+            "contact": "22545214",
+            "employees": [
+                {
+                    "fname": "Zlatko",
+                    "lname": "Zlatic",
+                    "contact": "54522145",
+                    "id": 4,
+                    "salary": 50000.0
+                },
+                {
+                    "fname": "Zlatan",
+                    "lname": "Ibra",
+                    "contact": "555421445",
+                    "id": 71,
+                    "salary": 30550.0
+                },
+                {
+                    "fname": "Marija",
+                    "lname": "Milic",
+                    "contact": "44145784",
+                    "id": 63,
+                    "salary": 200000.0
+                }
+            ],
+            "customers": [
+                {
+                    "fname": "Netko",
+                    "lname": "Nekic",
+                    "contact": "7745125"
+                },
+                {
+                    "fname": "Natko",
+                    "lname": "Nakic",
+                    "contact": "8898989"
+                }
+            ]
+        }
+    ]
+}
